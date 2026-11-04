@@ -574,7 +574,7 @@ If you find this simulation engine or PINN surrogate useful in your academic or 
 
 ```bibtex
 @software{dwivedi2026ballistic,
-  author       = {Utkarsh Dwivedi},
+  author       = {Utkarsh Dwivedi}
   title        = {PINN Ballistic Simulation Engine: High-Rate Impact Mechanics & Hard-PINN Surrogate},
   year         = {2026},
   publisher    = {GitHub},

@@ -2,7 +2,7 @@
 
 **Project:** Ballistic‑Simulation‑Engine
 **Date:** 2026‑10‑25
-**Auditor:** Claude Code (AI)
+**Auditor:** Utkarsh Dwivedi
 
 ---
 
